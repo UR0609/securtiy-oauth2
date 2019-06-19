@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.client.mapper.UserMapper">
+
+    <resultMap id="userResult" type="com.example.client.entity.User">
+        <result property="id" column="id" />
+        <result property="name" column="name" />
+        <result property="password" column="password" />
+        <result property="sex" column="sex" />
+        <result property="age" column="age" />
+        <result property="createTime" column="createTime" />
+        <result property="creator" column="creator" />
+        <result property="updateTime" column="updateTime" />
+        <result property="updator" column="updator" />
+    </resultMap>
+
+    <select id="getList" resultMap="userResult" resultType="com.example.client.entity.User">
+        SELECT *
+        FROM user
+    </select>
+
+</mapper>

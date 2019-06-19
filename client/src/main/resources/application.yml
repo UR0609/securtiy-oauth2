@@ -1,0 +1,26 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8762
+spring:
+  application:
+    name: EurekaClient
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://116.62.205.255:63306/springcloud?characterEncoding=utf8&useSSL=true
+    username: root
+    password: J@^S%TCE9dTXusVC
+mybatis:
+  mapper-locations: classpath:mybatis/*.xml
+security:
+  oauth2:
+    resource:
+      user-info-uri: http://localhost:9098/users/current
+    client:
+      id: client_2
+      client-secret: 123456
+      access-token-uri: http://localhost:9098/oauth/token
+      grant-type: client_credentials,password
+      scope: server
