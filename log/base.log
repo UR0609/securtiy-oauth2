@@ -1,0 +1,89 @@
+2019-06-19 14:00:58,285 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 14:01:07,296 INFO (StartupInfoLogger.java:59)- Started EurekaApplication in 12.274 seconds (JVM running for 15.547)
+2019-06-19 14:07:25,556 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 14:07:36,775 INFO (StartupInfoLogger.java:59)- Started AuthApplication in 13.772 seconds (JVM running for 17.188)
+2019-06-19 14:49:51,534 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 14:50:13,493 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 26.521 seconds (JVM running for 28.47)
+2019-06-19 14:53:22,880 INFO (UserController.java:18)- >>>>>>>>>>>>>>>>>>>>>>>>
+2019-06-19 14:53:22,883 INFO (UserController.java:19)- org.springframework.security.oauth2.provider.OAuth2Authentication@47a0788a: Principal: org.springframework.security.core.userdetails.User@ce2b30bd: Username: user_1; Password: [PROTECTED]; Enabled: true; AccountNonExpired: true; credentialsNonExpired: true; AccountNonLocked: true; Granted Authorities: USER; Credentials: [PROTECTED]; Authenticated: true; Details: remoteAddress=127.0.0.1, tokenType=BearertokenValue=<TOKEN>; Granted Authorities: USER
+2019-06-19 14:53:22,884 INFO (UserController.java:20)- >>>>>>>>>>>>>>>>>>>>>>>>
+2019-06-19 15:40:43,319 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 15:40:52,104 INFO (StartupInfoLogger.java:59)- Started EurekaApplication in 11.882 seconds (JVM running for 14.722)
+2019-06-19 15:41:01,567 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 15:41:12,405 INFO (StartupInfoLogger.java:59)- Started AuthApplication in 13.899 seconds (JVM running for 16.385)
+2019-06-19 15:41:21,927 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 15:41:38,703 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 19.79 seconds (JVM running for 22.321)
+2019-06-19 15:43:37,653 INFO (UserController.java:18)- >>>>>>>>>>>>>>>>>>>>>>>>
+2019-06-19 15:43:37,653 INFO (UserController.java:19)- org.springframework.security.oauth2.provider.OAuth2Authentication@47a0788a: Principal: org.springframework.security.core.userdetails.User@ce2b30bd: Username: user_1; Password: [PROTECTED]; Enabled: true; AccountNonExpired: true; credentialsNonExpired: true; AccountNonLocked: true; Granted Authorities: USER; Credentials: [PROTECTED]; Authenticated: true; Details: remoteAddress=127.0.0.1, tokenType=BearertokenValue=<TOKEN>; Granted Authorities: USER
+2019-06-19 15:43:37,654 INFO (UserController.java:20)- >>>>>>>>>>>>>>>>>>>>>>>>
+2019-06-19 15:44:35,817 INFO (UserController.java:18)- >>>>>>>>>>>>>>>>>>>>>>>>
+2019-06-19 15:44:35,818 INFO (UserController.java:19)- org.springframework.security.oauth2.provider.OAuth2Authentication@47a0788a: Principal: org.springframework.security.core.userdetails.User@ce2b30bd: Username: user_1; Password: [PROTECTED]; Enabled: true; AccountNonExpired: true; credentialsNonExpired: true; AccountNonLocked: true; Granted Authorities: USER; Credentials: [PROTECTED]; Authenticated: true; Details: remoteAddress=127.0.0.1, tokenType=BearertokenValue=<TOKEN>; Granted Authorities: USER
+2019-06-19 15:44:35,819 INFO (UserController.java:20)- >>>>>>>>>>>>>>>>>>>>>>>>
+2019-06-19 15:47:15,293 INFO (UserController.java:18)- >>>>>>>>>>>>>>>>>>>>>>>>
+2019-06-19 15:47:15,294 INFO (UserController.java:19)- org.springframework.security.oauth2.provider.OAuth2Authentication@47a0788a: Principal: org.springframework.security.core.userdetails.User@ce2b30bd: Username: user_1; Password: [PROTECTED]; Enabled: true; AccountNonExpired: true; credentialsNonExpired: true; AccountNonLocked: true; Granted Authorities: USER; Credentials: [PROTECTED]; Authenticated: true; Details: remoteAddress=127.0.0.1, tokenType=BearertokenValue=<TOKEN>; Granted Authorities: USER
+2019-06-19 15:47:15,295 INFO (UserController.java:20)- >>>>>>>>>>>>>>>>>>>>>>>>
+2019-06-19 15:47:15,304 INFO (TestEndPointController.java:29)- [USER]
+2019-06-19 15:47:15,305 INFO (TestEndPointController.java:30)- org.springframework.security.oauth2.provider.OAuth2Authentication@faa36b6f: Principal: user_1; Credentials: [PROTECTED]; Authenticated: true; Details: remoteAddress=0:0:0:0:0:0:0:1, sessionId=<SESSION>, tokenType=BearertokenValue=<TOKEN>; Granted Authorities: USER
+2019-06-19 15:47:15,307 INFO (TestEndPointController.java:31)- principal.toString() org.springframework.security.oauth2.provider.OAuth2Authentication@faa36b6f: Principal: user_1; Credentials: [PROTECTED]; Authenticated: true; Details: remoteAddress=0:0:0:0:0:0:0:1, sessionId=<SESSION>, tokenType=BearertokenValue=<TOKEN>; Granted Authorities: USER
+2019-06-19 15:47:15,308 INFO (TestEndPointController.java:32)- principal.getName() user_1
+2019-06-19 15:47:15,309 INFO (TestEndPointController.java:33)- authentication: [USER]
+2019-06-19 16:39:24,692 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 16:39:33,049 INFO (StartupInfoLogger.java:59)- Started EurekaApplication in 10.992 seconds (JVM running for 14.356)
+2019-06-19 16:40:41,472 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 16:40:59,128 INFO (StartupInfoLogger.java:59)- Started AuthApplication in 20.459 seconds (JVM running for 23.031)
+2019-06-19 16:41:48,970 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 16:45:01,828 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 16:48:06,963 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 16:48:25,924 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 21.707 seconds (JVM running for 24.409)
+2019-06-19 16:50:55,603 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 16:51:11,792 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 18.877 seconds (JVM running for 21.824)
+2019-06-19 16:54:34,619 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 16:54:54,886 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 23.296 seconds (JVM running for 26.27)
+2019-06-19 16:55:35,821 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 16:55:55,823 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 23.188 seconds (JVM running for 26.148)
+2019-06-19 16:58:16,747 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 16:58:37,353 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 23.922 seconds (JVM running for 26.798)
+2019-06-19 17:03:06,770 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:03:27,398 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 23.902 seconds (JVM running for 26.584)
+2019-06-19 17:20:56,567 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:21:16,277 INFO (StartupInfoLogger.java:59)- Started AuthApplication in 22.769 seconds (JVM running for 25.125)
+2019-06-19 17:22:25,249 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:22:41,904 INFO (StartupInfoLogger.java:59)- Started AuthApplication in 19.755 seconds (JVM running for 22.443)
+2019-06-19 17:23:39,380 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:26:36,521 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:27:42,503 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:31:02,096 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:31:21,116 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 21.962 seconds (JVM running for 24.871)
+2019-06-19 17:31:44,829 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into user( id,username, password values( ?,?, ? 
+2019-06-19 17:32:00,122 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into user( id,username, password values( ?,?, ? 
+2019-06-19 17:33:15,103 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into user( id,username, password values( ?,?, ? 
+2019-06-19 17:33:44,263 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:33:59,460 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 18.582 seconds (JVM running for 21.586)
+2019-06-19 17:34:29,729 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:34:44,550 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 18.086 seconds (JVM running for 20.873)
+2019-06-19 17:37:27,048 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into user( id,username, password) values( ?,?, ?) 
+2019-06-19 17:38:05,970 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:38:21,119 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 18.373 seconds (JVM running for 21.382)
+2019-06-19 17:39:25,732 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into user( id,username, password) values( ?,?, ?) 
+2019-06-19 17:39:26,099 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, user(String), {bcrypt}$2a$10$5BOX6O6wvv7CkZf0RY4gYuV/bu3OXU2x1ntIDuWBVxmWLl6Ygc/JO(String)
+2019-06-19 17:39:26,225 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2019-06-19 17:40:28,631 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into user( id,username, password) values( ?,?, ?) 
+2019-06-19 17:40:28,633 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: null, user(String), {bcrypt}$2a$10$eFc/tJQZDBAeGA6blaBApO.vlmWyAsWBMmTwShKuh3EPjSV99KqaO(String)
+2019-06-19 17:40:28,755 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2019-06-19 17:41:12,290 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:41:29,410 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 20.436 seconds (JVM running for 23.506)
+2019-06-19 17:42:07,694 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: insert into user( username, password) values( ?, ?) 
+2019-06-19 17:42:07,723 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: user(String), {bcrypt}$2a$10$4odsA8XHg/oL3o3Oo4V7cu6XZ1EZ2uZXfXENgOUDcOxPiS6nrOSYG(String)
+2019-06-19 17:42:07,849 DEBUG (BaseJdbcLogger.java:145)- <==    Updates: 1
+2019-06-19 17:52:45,472 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:54:11,301 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:55:16,224 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:55:31,264 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 18.025 seconds (JVM running for 20.855)
+2019-06-19 17:58:58,734 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 17:59:17,368 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 22.836 seconds (JVM running for 26.321)
+2019-06-19 18:04:00,059 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 18:04:24,424 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 29.086 seconds (JVM running for 32.417)
+2019-06-19 18:06:11,640 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 18:06:35,106 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 26.404 seconds (JVM running for 30.87)
+2019-06-19 18:15:20,740 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-19 18:15:36,744 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 19.465 seconds (JVM running for 22.26)

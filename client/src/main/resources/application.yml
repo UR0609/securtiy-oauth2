@@ -9,7 +9,7 @@ spring:
     name: EurekaClient
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://116.62.205.255:63306/springcloud?characterEncoding=utf8&useSSL=true
+    url: jdbc:mysql://116.62.205.255:63306/auth2?characterEncoding=utf8&useSSL=true
     username: root
     password: J@^S%TCE9dTXusVC
 mybatis:

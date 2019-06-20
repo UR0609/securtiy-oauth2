@@ -1,0 +1,24 @@
+2019-06-18 13:37:57,741 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-18 13:38:20,150 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-18 13:38:29,899 INFO (StartupInfoLogger.java:59)- Started EurekaApplication in 13.318 seconds (JVM running for 16.722)
+2019-06-18 13:38:39,963 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-18 13:44:29,095 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-18 13:44:43,468 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-18 13:45:10,300 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-18 13:45:21,410 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 14.697 seconds (JVM running for 17.665)
+2019-06-18 13:47:20,637 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-18 13:47:31,617 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 14.316 seconds (JVM running for 17.316)
+2019-06-18 16:10:11,939 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-18 16:10:25,201 INFO (StartupInfoLogger.java:59)- Started EurekaApplication in 20.341 seconds (JVM running for 26.739)
+2019-06-18 16:16:42,327 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-18 16:17:00,919 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 23.915 seconds (JVM running for 26.382)
+2019-06-18 16:17:26,493 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: SELECT * FROM user 
+2019-06-18 16:17:26,574 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2019-06-18 16:17:26,669 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 2
+2019-06-18 19:38:40,302 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-18 19:38:48,259 INFO (StartupInfoLogger.java:59)- Started EurekaApplication in 10.505 seconds (JVM running for 14.536)
+2019-06-18 19:39:09,933 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2019-06-18 19:39:19,150 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 11.279 seconds (JVM running for 13.957)
+2019-06-18 19:39:25,813 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: SELECT * FROM user 
+2019-06-18 19:39:25,854 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2019-06-18 19:39:25,941 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 2

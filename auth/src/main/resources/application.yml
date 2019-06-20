@@ -5,6 +5,17 @@ spring:
     host: 116.62.205.255
     port: 56379
     database: 0
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://116.62.205.255:63306/auth2?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8
+    username: root
+    password: J@^S%TCE9dTXusVC
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
 server:
   port: 9098
 eureka:

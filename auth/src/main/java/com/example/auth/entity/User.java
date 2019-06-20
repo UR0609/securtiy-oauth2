@@ -1,4 +1,4 @@
-package com.example.client.entity;
+package com.example.auth.entity;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
