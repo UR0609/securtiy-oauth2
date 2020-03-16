@@ -18,7 +18,7 @@ security:
   oauth2:
     resource:
       jwt:
-        key-uri: http://localhost:9098/oauth/token_key
+        key-uri: http://localhost:9098/oauth/token_keyregistry.do
     client:
       client-id: client_2
       client-secret: 123456

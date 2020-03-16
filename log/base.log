@@ -1,21 +1,6 @@
-2019-06-20 11:01:21,027 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
-2019-06-20 11:01:29,191 INFO (StartupInfoLogger.java:59)- Started EurekaApplication in 11.507 seconds (JVM running for 15.831)
-2019-06-20 11:01:50,233 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
-2019-06-20 11:02:06,922 INFO (StartupInfoLogger.java:59)- Started AuthApplication in 19.114 seconds (JVM running for 21.2)
-2019-06-20 11:03:02,140 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
-2019-06-20 11:04:03,070 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
-2019-06-20 11:05:28,065 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
-2019-06-20 11:08:56,841 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
-2019-06-20 11:10:28,751 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
-2019-06-20 11:12:39,149 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
-2019-06-20 11:17:15,267 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
-2019-06-20 11:17:32,541 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 19.782 seconds (JVM running for 22.371)
-2019-06-20 11:19:24,822 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
-2019-06-20 11:19:49,481 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 27.592 seconds (JVM running for 29.657)
-2019-06-20 11:20:58,580 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
-2019-06-20 11:21:11,884 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 15.688 seconds (JVM running for 17.596)
-2019-06-20 11:24:35,816 INFO (TestEndPointController.java:35)- []
-2019-06-20 11:24:35,817 INFO (TestEndPointController.java:36)- org.springframework.security.oauth2.provider.OAuth2Authentication@f9c009a5: Principal: test; Credentials: [PROTECTED]; Authenticated: true; Details: remoteAddress=0:0:0:0:0:0:0:1, tokenType=BearertokenValue=<TOKEN>; Not granted any authorities
-2019-06-20 11:24:35,818 INFO (TestEndPointController.java:37)- principal.toString() org.springframework.security.oauth2.provider.OAuth2Authentication@f9c009a5: Principal: test; Credentials: [PROTECTED]; Authenticated: true; Details: remoteAddress=0:0:0:0:0:0:0:1, tokenType=BearertokenValue=<TOKEN>; Not granted any authorities
-2019-06-20 11:24:35,819 INFO (TestEndPointController.java:38)- principal.getName() test
-2019-06-20 11:24:35,819 INFO (TestEndPointController.java:39)- authentication: []
+2020-03-16 10:10:39,836 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2020-03-16 10:10:47,891 INFO (StartupInfoLogger.java:59)- Started EurekaApplication in 11.599 seconds (JVM running for 14.084)
+2020-03-16 10:12:08,341 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2020-03-16 10:12:21,666 INFO (SpringApplication.java:654)- No active profile set, falling back to default profiles: default
+2020-03-16 10:12:32,418 INFO (StartupInfoLogger.java:59)- Started AuthApplication in 30.606 seconds (JVM running for 33.767)
+2020-03-16 10:12:39,579 INFO (StartupInfoLogger.java:59)- Started ClientApplication in 23.358 seconds (JVM running for 26.597)
