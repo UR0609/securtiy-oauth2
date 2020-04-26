@@ -8,8 +8,8 @@ spring:
   application:
     name: EurekaClient
   datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://116.62.205.255:63306/auth2?characterEncoding=utf8&useSSL=true
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://116.62.205.255:63306/auth2?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8
     username: root
     password: J@^S%TCE9dTXusVC
 mybatis:
@@ -18,7 +18,7 @@ security:
   oauth2:
     resource:
       jwt:
-        key-uri: http://localhost:9098/oauth/token_keyregistry.do
+        key-uri: http://localhost:9098/oauth/token_key.do
     client:
       client-id: client_2
       client-secret: 123456

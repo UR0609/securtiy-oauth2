@@ -1,6 +1,5 @@
 package com.example.client.config;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -17,7 +16,7 @@ import java.io.IOException;
 public class JwtConfig {
     public static final String public_cert = "public.cert";
 
-    @Autowired
+    @javax.annotation.Resource
     private JwtAccessTokenConverter jwtAccessTokenConverter;
 
     @Bean
